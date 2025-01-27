@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MovieRecommendation/static/css/main.0c95040f.css",
+    "main.js": "/MovieRecommendation/static/js/main.e180c84a.js",
+    "static/js/453.7bf11acd.chunk.js": "/MovieRecommendation/static/js/453.7bf11acd.chunk.js",
+    "static/media/fa-solid-900.ttf": "/MovieRecommendation/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/MovieRecommendation/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/MovieRecommendation/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/MovieRecommendation/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/MovieRecommendation/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/MovieRecommendation/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/966-9665317_placeholder-image-person-jpg.png": "/MovieRecommendation/static/media/966-9665317_placeholder-image-person-jpg.dfd2b8424f6509d45eca.png",
+    "static/media/film-poster-placeholder.png": "/MovieRecommendation/static/media/film-poster-placeholder.ea03f296ccee66da53ea.png",
+    "static/media/fa-v4compatibility.ttf": "/MovieRecommendation/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/MovieRecommendation/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/MovieRecommendation/index.html",
+    "main.0c95040f.css.map": "/MovieRecommendation/static/css/main.0c95040f.css.map",
+    "main.e180c84a.js.map": "/MovieRecommendation/static/js/main.e180c84a.js.map",
+    "453.7bf11acd.chunk.js.map": "/MovieRecommendation/static/js/453.7bf11acd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c95040f.css",
+    "static/js/main.e180c84a.js"
+  ]
+}
