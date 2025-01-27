@@ -1,0 +1,44 @@
+.navBarTitle{
+    color: #8C0090;
+    transition: 0.3s;
+}
+.navBarTitle:hover{
+    color: white;
+}
+
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.logOut{
+    cursor: pointer;
+}
+
+.nav-item{
+    color: white;
+    transition: 0.3s;
+}
+
+.nav-item:hover{
+    color: #8C0090;
+}
+
+.nav-link{
+    color: white;
+    transition: 0.3s;
+}
+
+.nav-link:hover{
+    color: #8C0090;
+}
+
+.nav-item i {
+    color: white;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.nav-item i:hover{
+    color: #8C0090;
+}

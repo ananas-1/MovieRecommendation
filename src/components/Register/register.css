@@ -1,0 +1,12 @@
+.register {
+  border: 2px #8c0090 solid;
+  border-radius: 10px;
+  color: #8c0090;
+  transition: 0.3s;
+}
+
+.register:hover {
+  color: white;
+  background-color: #8c0090;
+  scale: 1.1;
+}

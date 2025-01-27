@@ -1,0 +1,29 @@
+.footer{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.underLine{
+    background-color: #8C0090;
+    height: 2px;
+    width: 25%;
+}
+
+
+.pageLinks ul{
+    list-style-type: none;  
+    padding: 0;
+}
+
+.pageLinks ul li{
+    margin: 5px 0px;
+}
+
+
+.pageLinks ul li a{
+    color: white;
+    transition: 0.3s;
+}
+
+.pageLinks ul li a:hover{
+    color: #8C0090;
+}

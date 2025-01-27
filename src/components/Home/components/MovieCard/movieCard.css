@@ -1,0 +1,12 @@
+.crd{
+    transition: 0.3s;
+}
+
+.crd:hover{
+    scale: 1.1;
+}
+
+.crd img{
+    border-radius: 10px;
+    border: 2px black solid;
+}

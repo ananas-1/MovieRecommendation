@@ -1,0 +1,14 @@
+.page-link {
+  background-color: transparent;
+  color: white;
+}
+
+.page-link:hover {
+  color: #8c0090;
+  background-color: white;
+}
+
+.activeLink {
+  background-color: #8c0090;
+  color: white;
+}

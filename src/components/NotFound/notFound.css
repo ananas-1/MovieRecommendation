@@ -1,0 +1,10 @@
+.returnHome{
+    transition: 0.3s;
+    border: none;
+}
+
+.returnHome:hover{
+    background-color: white;
+    color: black;
+    scale: 1.1;
+}
